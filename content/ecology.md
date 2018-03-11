@@ -1,3 +1,11 @@
++++
+title = "Ecology"
+description = "about this site"
+date = "2014-09-27"
+slug = "Antology"
++++
+
+
 **Ecology**
 
 This electronic artifice is here as part of a remarkable interconnected web of minds, technologies, and possibly universes, that reach and touch all things from all times.
