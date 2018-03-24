@@ -1,7 +1,6 @@
 ---
 title: "Cycling"
 date: 2018-03-23T21:11:46Z
-draft: true
 ---
 
 #Cycling to Work in London
@@ -50,7 +49,7 @@ Things are particularly bad when cyclists form a peloton but the word 'pack' is 
 
 The one place where I have found speed to be useful in my cycling is at junctions.  If you accelerate quickly when the lights change you can be clear of the junction ahead of the traffic allowing motorists to concentrate on other hazards.  Push bikes can be accelerated over a short distance faster than any other road vehicle.  Why so many of my fellow cyclists push to the front of a junction queue and pull up in an insanely high gear I cannot imagine.  You see these people with maybe 21 or 30 gear options and they stop in a cruising gear.  Grown men in lycra heaving and straining to lead the pack through a junction when the lights change and standing on their pedals the way we used to when we were nine years old.  Prats.
 
-Standing up on the pedals makes sense climbing a mountain after 180 kilometres of the Tour de France but come on - commuting to work?   Indeed the whole 'shopping fetish' connected with sports fads is intensely irritating.  These people who are going to work in lycra on souped up bikes are acting out some sort of phantasy.  The whole ensemble probably clocks in at around £1,000.  I am griping here because of the oppportunistic overpricing of the most basic bike components driven by the greed of vendors and the vanity of people with more money than sense.  Cycling is being treated as an 'uber' lifestyle statement instead of an economic efficient and environmentally friendly low tech transport choice.
+Standing up on the pedals makes sense climbing a mountain after 180 kilometres of the Tour de France but come on - commuting to work?   Indeed the whole 'shopping fetish' connected with sports fads is intensely irritating.  These people who are going to work in lycra on souped up bikes are acting out some sort of phantasy.  The whole ensemble probably clocks in at around £1,000.  I am griping here because of the oppportunistic overpricing of the most basic bike components driven by the greed of vendors and the vanity of people with more money than sense.  Cycling is being treated as an 'über' lifestyle statement instead of an economic efficient and environmentally friendly low tech transport choice.
 
 
 If you ever get to engage with real sports cyclists you meet lean hard dedicated humans with great discipline and stamina.    They are the ones returning to London on the London to Brighton run as you reach Croydon.  They do not go out in commuter traffic to make a big display.
