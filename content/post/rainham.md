@@ -7,16 +7,19 @@ draft: false
 
 {{%poem%}}
 
-<p>The marsh harrier made scoops of wings</p>
-<p>Lazily spilling just enough air to lollop above the reeds</p>
-<p>A nervous cloud of goldfinches lying low</p>
+<p>The marsh harrier makes scoops of wings</p>
+<p>Spilling just air enough to lollop over reeds</p>
+<p>A quivering cloud of goldfinches lying low</p>
 <p></p>
-<p>Two outraged crows rushed in behind this self-anointed queen</p>
+<p>Two outraged crows rush in behind this self-anointed queen</p>
 <p></p>
-<p>Nonchalantly she turned </p>
-<p>Talons outstretched </p>
-<p>Nearest crow braked leaning back the other fled</p>
+<p>So effortless she turns </p>
+<p>Talons rope and hooks outstretched </p>
+<p>Back-flap crow with popping eyes</p>
+<p>Hangs and gazes into hell</p>
+<p></p>
+<p>His friend remembers a prior engagement</p>
 <p>"Do you feel lucky?"</p>
-<p>She said slowly</p>
+<p>She says carelessly</p>
 <p>"Do you ...?"</p>
 <p>{{%/poem%}}</p>

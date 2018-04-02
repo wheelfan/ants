@@ -3,8 +3,8 @@ title: "Cycling"
 date: 2018-03-23T21:11:46Z
 ---
 
-#Cycling to Work in London
-
+<h2>Cycling to Work in London</h2>
+{{%text%}}
 I cycle to work and back 6 miles every day.  It takes me about 40 minutes perhaps 35 going home.
 
 I have ridden on the roads for 52 years.  I have never driven a motor vehicle.  I am still learning roadcraft.
@@ -13,13 +13,13 @@ The thing that makes me weep is the utter selfishness and disregard for others d
 
 I suspect that many cyclists do not love or respect the bicycle mode of transport.   Their cars are important status symbols in their own right.  The only way to maintain status and self-respect on a bike is to behave as a testosterone fueled maniac.  I include all in this comment.  Aggression is not gender specific.
 
-Cyclists who complain about the poor behaviour of buses, taxis, cars should be honest about their own total lack of concern for anyone else at all including other cyclists.
+Cyclists who complain about the poor behaviour of buses, taxis, cars, pedestrians even, should be honest about their own total lack of concern for anyone else at all including other cyclists.
 
 In London during rush hour I would guess that 90% of the people riding bikes to work hold driving licences.  These are middle class people in employment.  Most of them would have acquired their licences before they were 20 years old.  They know that you should not ride through red lights or enter pedestrian crossings while there are still pedestrians making a crossing.
 
 It is as if cyclists act out all of the rage they cannot express in their cars.  It is as if only the threat of sanctions makes them want to behave as part of a 'traffic community'.  This is the age of the great big ME.
 
-I am shocked when I see cyclists using areas shared with pedestrians.   They would be enraged if someone raced past their granny or their two year old child in a confined area.  One sudden or unexpected movement by a pedestrian who cannot see or hear the speeding bike behindcould result in terrible injury.  There is no need to ever behave like this.
+I am shocked when I see cyclists using areas shared with pedestrians.   They would be enraged if someone raced past their granny or their two year old child in a confined area.  One sudden or unexpected movement by a pedestrian who cannot see or hear the speeding bike behind could result in terrible injury.  There is no need to ever behave like this.
 
 Speed is a big issue on shared footpaths and off road routes.  While the there is a push to reduce car speeds to 20 mph in small urban streets it is not unusual to see a cyclist clocking 25mph on a narrow footpath shared with pedestrians.
 
@@ -45,18 +45,18 @@ If you arrive at your destination with no clear memories of the journey be afrai
 
 Every journey I make on London roads involves eye contact, acknowledgements, waves, nods, smiles, verbal thanks to pedestrians, the occasional 'sorry'.  I have not seen a single other cyclist doing this, ever.  This has to change.
 
-Things are particularly bad when cyclists form a peloton but the word 'pack' is probably more accurate.  They lose all sense of the bigger picture.  Of what is unfolding on the road.  These days I get right to the back of these groups and let them race each other out of sight.  I have a adopted a habit of cycling behind the slowest cyclist on the road and rejecting the impulse of overtaking.  I am not going to cut more than a minute or five off my trip by cycling hell for leather.
+Things are particularly bad when cyclists form a peloton but the phrase 'pack with bloodlust' is probably more accurate.  They lose all sense of the bigger picture.  Of what is unfolding on the road.  These days I get right to the back of these groups and let them race each other out of sight.  I have a adopted a habit of cycling behind the slowest cyclist on the road and rejecting the impulse of overtaking.  I am not going to cut more than a minute or five off my trip by cycling hell for leather.
 
-The one place where I have found speed to be useful in my cycling is at junctions.  If you accelerate quickly when the lights change you can be clear of the junction ahead of the traffic allowing motorists to concentrate on other hazards.  Push bikes can be accelerated over a short distance faster than any other road vehicle.  Why so many of my fellow cyclists push to the front of a junction queue and pull up in an insanely high gear I cannot imagine.  You see these people with maybe 21 or 30 gear options and they stop in a cruising gear.  Grown men in lycra heaving and straining to lead the pack through a junction when the lights change and standing on their pedals the way we used to when we were nine years old.  Prats.
+The one place where I have found speed to be useful in my cycling is at junctions.  If you accelerate quickly when the lights change you can be clear of the junction ahead of the traffic allowing motorists to concentrate on other hazards.  Push bikes can be accelerated over a short distance faster than any other road vehicle.  Why so many of my fellow cyclists push to the front of a junction queue and pull up in an insanely high gear I cannot imagine.  You see these people with maybe 21 or 30 gear options and they stop in a cruising gear.  Grown men in lycra heaving and straining to be alpha and lead the pack through a junction when the lights change are standing on their pedals the way we used to when we were nine years old.  Prats.
 
 Standing up on the pedals makes sense climbing a mountain after 180 kilometres of the Tour de France but come on - commuting to work?   Indeed the whole 'shopping fetish' connected with sports fads is intensely irritating.  These people who are going to work in lycra on souped up bikes are acting out some sort of phantasy.  The whole ensemble probably clocks in at around £1,000.  I am griping here because of the oppportunistic overpricing of the most basic bike components driven by the greed of vendors and the vanity of people with more money than sense.  Cycling is being treated as an 'über' lifestyle statement instead of an economic efficient and environmentally friendly low tech transport choice.
 
 
 If you ever get to engage with real sports cyclists you meet lean hard dedicated humans with great discipline and stamina.    They are the ones returning to London on the London to Brighton run as you reach Croydon.  They do not go out in commuter traffic to make a big display.
 
-I guess I am moaning about the illusion that cycle commuting is being turned into a kind of daredevil racing sport instead of being a shared community experience demanding self-control, discipline and consideration of others.
+I guess I am voicing the feeling that cycle commuting is being turned into a kind of daredevil racing sport instead of being a shared community experience demanding self-control, discipline and consideration of others.
 
-Every journey we make is a metaphor for a life.  The beauty of being on a journey is that it provides a space out of time and a time out of normal mind.  You can think and be other than the you at the beginning or end.  The time before the start of the journey and the experiences to come at journey's end should not pollute your thoughts.   Every  moment of a journey is unique and special and should be heightened, savoured, learned from.
+Every journey we make is a metaphor for a life.  The beauty of being on a journey is that it provides a space out of time and a time out of normal mind.  You can think and be other than the 'you' at the beginning or end.  The time before the start of the journey and the experiences to come at journey's end should not pollute your thoughts.   Every  moment of a journey is unique and special and should be heightened, savoured, learned from.
 
 Every journey is so special that that you should not be in a rush for it to end.  A journey against the clock is an illusion.   The clock must always win.  If you are running late then you are caught in circumstances that belong to the period of time before the journey started.  The journey is not the place to try and make amends.
-
+{{%/text%}}
