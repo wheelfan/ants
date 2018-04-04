@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Antsy-Social</title>
+    <link>http://ants.glowing-ember.com/post/</link>
+    <description>Recent content in Posts on Antsy-Social</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2018 22:08:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://ants.glowing-ember.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Number 2 Inside post Dir</title>
+      <link>http://ants.glowing-ember.com/post/post-dir2/</link>
+      <pubDate>Wed, 21 Feb 2018 22:08:41 +0000</pubDate>
+      
+      <guid>http://ants.glowing-ember.com/post/post-dir2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Number 1 Inside post Dir</title>
+      <link>http://ants.glowing-ember.com/post/post-dir1/</link>
+      <pubDate>Wed, 21 Feb 2018 21:48:08 +0000</pubDate>
+      
+      <guid>http://ants.glowing-ember.com/post/post-dir1/</guid>
+      <description>Inside postdir</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://ants.glowing-ember.com/secondpost/</loc>
+    <lastmod>2018-02-24T09:19:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ants.glowing-ember.com/firstpost/</loc>
+    <lastmod>2018-02-24T09:19:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ants.glowing-ember.com/post/post-dir2/</loc>
+    <lastmod>2018-02-21T22:08:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ants.glowing-ember.com/post/post-dir1/</loc>
+    <lastmod>2018-02-21T21:48:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ants.glowing-ember.com/about-time/</loc>
+    <lastmod>2014-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ants.glowing-ember.com/ecology/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ants.glowing-ember.com/</loc>
+    <lastmod>2018-02-24T09:19:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ants.glowing-ember.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ants.glowing-ember.com/post/</loc>
+    <lastmod>2018-02-21T22:08:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ants.glowing-ember.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
