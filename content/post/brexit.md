@@ -8,7 +8,7 @@ Mass votes indeed any voting at all should be the last resort for anything.  Put
 
 When things are unclear it is mostly better to postpone a commitment to a particular course of action.  You know that thing where you lose something and reach a point where you stop looking for it and decide to let it come looking for you.
 
-The first thing that screamed out at me about the Brexit vote was however can such a significant unbalanced choice be subjected to an either/or majority vote.  Even a stamp club would demand a three-quarters or two-thirds majority on a constitutional change.   Shall we focus exclusively on stamps pre-dating World War II?  The constitution of this club explicitly lays down that it is open to all collectors of all stamps of any origin!  The constitution also says that this can only be changed by a secret ballot of the entire membership and requires a 75% majority to be carried.
+The first thing that screamed out at me about the Brexit vote was: however can such a significant unbalanced choice be subjected to a simple either/or majority vote?  Even a stamp club would demand a three-quarters or two-thirds majority on a constitutional change.   Shall we focus exclusively on stamps pre-dating World War II?  The constitution of this club explicitly lays down that it is open to all collectors of all stamps of any origin!  The constitution also says that this can only be changed by a secret ballot of the entire membership and requires a 75% majority to be carried.
 
 Why unbalanced?  Because being in or out of the EU is like comparing chewing gum with banisters.  It is not a balanced equivalence even if it sounds like one in simple language.
 
@@ -18,11 +18,11 @@ The campaign leading up to the vote was beyond facile.  I include both sides.  I
 
 I did not notice that any academics were allowed near the media debate.  The people who voted for and against the proposal were all equally unable to make a choice based on anything other than rhetoric and demagoguery.
 
-If I had voted it would have been to remain.  This would have been based on pure greedy self-interest.  Working class people can only lose out in a terrible fashion from the vote to leave.  Our local ruling elite is one of the craftiest and most vindictive in history.  Our parliamentary system provides the most cunning disguise of their power.  What little protection of human dignity that could be provided inside the Union is gone forever.  I wonder if we shall remain citizens or once again become subjects?
+If I had voted it would have been to remain.  This would have been based on pure greedy self-interest.  Working class people can only lose out in a terrible fashion from the vote to leave.  Our local ruling elite is one of the craftiest and most vindictive in history.  Our parliamentary system provides the most cunning disguises of elite power ever conceived.  What little protection of human dignity that could be provided inside the Union is gone forever.  I wonder if we shall remain to be called citizens or once again named subjects?
 
-In the greater scheme of things it really does not matter.  The European project presides over massive inequalities in wealth, homelessness, social deprivation, racism, barely disguised nationalism, youth unemployment enough to deeply shame the so called enlightened states in the 21st Century.  For years now we have had 'food banks' in the UK.  People turn up at these in an awful state with vouchers begging to be given food.
+In the greater scheme of things it really does not matter.  The European project presides over massive inequalities in wealth, homelessness, social deprivation, racism, barely disguised nationalism, youth unemployment enough to deeply shame these so called enlightened states in the 21st Century.  For years now we have had 'food banks' in the UK.  People turn up at these in an awful state with vouchers begging and crying to be given food.
 
-The EU is a massive trading Cartel.  It is designed to wreak havoc on world markets, to inflict poverty and suffering on those less able to protect themselves.  While European politicians bleat on about free and open markets they use the Union for the self-enrichment of the local elites at the expense of emerging economies.
+The EU is a massive trading cartel.  Ironically an anathaema to Capitalism.  It is designed to wreak havoc on world markets, to inflict poverty and suffering on those less able to protect themselves.  While European politicians bleat on about free and open markets they use the Union for the self-enrichment of the local elites at the expense of emerging economies.
 
 The EU is not a nice organisation.   But neither is the UK.
 
